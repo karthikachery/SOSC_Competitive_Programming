@@ -1,10 +1,10 @@
 # SOSC Competitive Programming Challenge.
 
-Problem definition 
+**Competitive Programming**
 
-Write a menudriven program with following options
-
-Var1--Take a input as number and choice
+Write a single program, with menu to perform the following. Only two input variables will be allowed
+• var1- Input Number
+• var2- Choose the option from the menu
 
  1.Find if the number is Prime Number
  2.Find if the number is square Number
