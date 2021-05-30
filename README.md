@@ -1,7 +1,7 @@
-# SOSC_Competitive_Programming
+﻿# SOSC_Competitive_Programming
 Write a single program, with menu to perform the following. Only two input variables will be allowed
-• var1- Input Number
-• var2- Choose the option from the menu
+var1- Input Number
+var2- Choose the option from the menu
 
  1.Find if the number is Prime Number
  2.Find if the number is square Number
